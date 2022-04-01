@@ -1,9 +1,9 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-date: 2020-10-06T08:47:36+00:00
-lastmod: 2020-10-06T08:47:36+00:00
+title : "Make generated code works for you."
+description: "We help you to generate all boilderplace code of new projects, features. It's fast, customisable, and high quality."
+lead: "We help you to generate all boilderplace code of new projects, features. It's fast, customisable, and high quality."
+date: 2022-04-01T08:47:36+00:00
+lastmod: 2020-04-01T08:47:36+00:00
 draft: false
 images: []
 ---
